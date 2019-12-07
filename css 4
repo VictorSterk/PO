@@ -37,7 +37,7 @@ html, body {
     transition: bottom 300ms ease;
     position:relative;
     bottom: 15px;
-	text-decoration: underline;
+    text-decoration: underline;
     text-decoration-color: grey;
     text-decoration-width: 2px;
   }
