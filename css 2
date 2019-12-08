@@ -37,9 +37,7 @@ html, body {
     transition: bottom 300ms ease;
     position:relative;
     bottom: 15px;
-  	text-decoration: underline;
-    text-decoration-color: grey;
-    text-decoration-width: 2px;
+  	
   }
 
     .main-nav a:hover {
@@ -60,6 +58,7 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
+  border-bottom: 2px solid grey;
 }
 
 h2 {
