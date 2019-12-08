@@ -96,6 +96,6 @@ h2 {
       }
 	  
 	  a:link {
-  background-color: #6f717d;
+  color: #6f717d;
   text-decoration: none;
   font-weight: bold;
